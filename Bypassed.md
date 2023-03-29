@@ -172,7 +172,7 @@ This is a list of websites bypassed in the MV2 version of the extension.
 |         https://healthyteeth.tips         |   ❌    |
 |             https://oxy.cloud             |   ❌    |
 |   https://daunshorte.teknologilink.com    |   🛑   | 
-|            https://imgtaxi.com            |   ❌    |
+|            https://imgtaxi.com            |   ✅    |
 |            https://imgkoc.buzz            |   🛑   | 
 |           https://anonym.ninja            |   ✅    | 
 |           https://do2unlock.com           |   🛑   | 
